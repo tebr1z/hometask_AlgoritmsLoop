@@ -1,0 +1,15 @@
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\bin\Debug\net8.0\#hometask_AlgoritmsLoop.exe
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\bin\Debug\net8.0\#hometask_AlgoritmsLoop.deps.json
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\bin\Debug\net8.0\#hometask_AlgoritmsLoop.runtimeconfig.json
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\bin\Debug\net8.0\#hometask_AlgoritmsLoop.dll
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\bin\Debug\net8.0\#hometask_AlgoritmsLoop.pdb
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.sourcelink.json
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.dll
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\refint\#hometask_AlgoritmsLoop.dll
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.pdb
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\#hometask_AlgoritmsLoop.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\#hometask_AlgoritmsLoop\#hometask_AlgoritmsLoop\obj\Debug\net8.0\ref\#hometask_AlgoritmsLoop.dll
